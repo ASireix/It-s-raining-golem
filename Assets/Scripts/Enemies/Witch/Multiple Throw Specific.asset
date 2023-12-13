@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5fdae575141b1448b4963a33027ee69, type: 3}
+  m_Name: Multiple Throw Specific
+  m_EditorClassIdentifier: 
+  potionBelt: {fileID: 11400000, guid: 00accb1775f1f5b4a828438db6717d9c, type: 2}
+  speed: 2
+  minTorque: -5
+  maxTorque: 5
+  poisons: {fileID: 11400000, guid: 2b6c77551b6e2e347897226567e1548e, type: 2}
+  heals: {fileID: 11400000, guid: 541239d41986fc149b5d24523e2c469a, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ac59c470b15dd7408022232a625b173, type: 3}
+  m_Name: New Slash Data
+  m_EditorClassIdentifier: 
+  slashSpeed: 0
+  firstKnockBack: 2.76
+  secondKnockBack: 12.5
+  thirdKnockBack: 23.64
+  firstSlashDashForce: 0
+  secondSlashDashForce: 8.67
+  thirdSlashDashForce: 19.2
+  firstSlashDashDamage: 5
+  secondSlashDashDamage: 15
+  thirdSlashDashDamage: 30
+  sfx_Slash_First: {fileID: 11400000, guid: 7c6cf66b83970384e81165fe668edbda, type: 2}
+  sfx_Slash_Second: {fileID: 11400000, guid: a998a582ec32c2441b9052f2da93c6a7, type: 2}
+  sfx_Slash_Third: {fileID: 11400000, guid: 00aae6bfdc0523149890f228ef1dcb0e, type: 2}

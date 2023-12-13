@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71f4391826a0e584da2d5da9f350af66, type: 3}
+  m_Name: sfx_Witch_Throw
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: db3a5ecfccb15944c93e40e23fa043e5, type: 3}
+  volume: {x: 0.5, y: 0.5}
+  pitch: {x: 1, y: 1}
+  audioMixer: {fileID: -1856266300376663103, guid: dfac003b7b72f5a4aaf0ac2ec5698160,
+    type: 2}
+  playOrder: 0
+  playIndex: 0

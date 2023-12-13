@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92fdc9b8dd1ca474ba7d5f335fac477b, type: 3}
+  m_Name: Normal Belt
+  m_EditorClassIdentifier: 
+  potions:
+  - weight: 30
+    potion: {fileID: 3133384917428192440, guid: 71fffade5cf45934a8c3b9919a5cbbdb,
+      type: 3}
+  - weight: 70
+    potion: {fileID: 2894538276951166716, guid: c240609f7a75de149b209ac5138c42e8,
+      type: 3}
